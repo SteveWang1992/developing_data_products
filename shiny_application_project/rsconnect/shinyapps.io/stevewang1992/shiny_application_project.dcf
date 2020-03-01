@@ -1,0 +1,12 @@
+name: shiny_application_project
+title: shiny_application_project
+username:
+account: stevewang1992
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1884450
+bundleId: 2841379
+url: https://stevewang1992.shinyapps.io/shiny_application_project/
+when: 1583064052.71514
+asMultiple: FALSE
+asStatic: FALSE
